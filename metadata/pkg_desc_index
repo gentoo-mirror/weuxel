@@ -1,6 +1,0 @@
-net-misc/cjdns 18 19.1 20 20-r1: Encrypted networking for regular people.
-net-misc/minidlna 1.0.25-r2 1.0.26: DLNA/UPnP-AV compliant media server
-net-p2p/litecoin-qt 0.8.6.1 0.8.7.1: P2P Internet currency based on Bitcoin but easier to mine.
-sys-firmware/b43-firmware 6.30.163.46-r1: broadcom firmware for b43 LP PHY and >=linux-3.2
-www-servers/nginx 1.5.11: Robust, small and high performance http and reverse proxy server
-x11-misc/tint2 0.12_rc5: A lightweight panel/taskbar
