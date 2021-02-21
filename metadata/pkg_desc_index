@@ -1,3 +1,1 @@
-net-misc/minidlna 1.0.25-r2 1.0.26: DLNA/UPnP-AV compliant media server
-sys-firmware/b43-firmware 6.30.163.46-r1: broadcom firmware for b43 LP PHY and >=linux-3.2
-x11-misc/tint2 0.12_rc5: A lightweight panel/taskbar
+net-misc/cjdns 21.1: Encrypted networking for regular people.
